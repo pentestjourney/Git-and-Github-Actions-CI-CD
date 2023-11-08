@@ -33,12 +33,13 @@ body {
 /* Main heading style */
 h1 {
     color: #0056b3;
+    font-weight: 800;
     margin-bottom: 0.5em; /* Add space below the heading */
 }
 
 /* Paragraph text style */
 p {
-    color: #023e8a;
+    color: #041d3b;
     margin-bottom: 1em; /* Add space below the paragraph */
 }
 
